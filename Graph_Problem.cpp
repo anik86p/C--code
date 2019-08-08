@@ -1,11 +1,12 @@
+//Traveling a graph
 #include<iostream>
 #include<stdio.h>
 #include<conio.h>
 #include<queue>
+using namespace std;
 void creatgraph();
 void visiting(int x);
 void bfs_traavel();
-using namespace std;
 #define MAX 100
 #define initial 1
 #define waiting 2
