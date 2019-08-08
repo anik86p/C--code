@@ -1,4 +1,4 @@
-//Matrix Problem
+//Finding the sortest path in a matrix
 #include <stdio.h>
 #include <conio.h>
 #define infinity 999
