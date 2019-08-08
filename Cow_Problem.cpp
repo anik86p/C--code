@@ -1,4 +1,4 @@
-Cow problem..........
+//Maximum number of cow in low cost 
 #include <iostream>
 #include <algorithm>
 using namespace std;
